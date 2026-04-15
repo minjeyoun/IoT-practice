@@ -6,11 +6,15 @@
     
           [ 조건 : 90점 이상 : A, 80점 이상 : B, 70점 이상 : C, 60점 이상 : D, 60점 미만 : F]
 
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/ba8af516-fb09-44db-8e0d-b16552761d61" />
+
 ▪ practice2
     - 파이썬의 for 문과 range() 함수를 사용하여 1부터 10까지의 모든 정수를 더한 합계를 구하는 프로그램을 작성하세요.
     
          [ 조건 1: 반복문이 실행될 때마다 현재 더해지는 숫자가 무엇인지 출력해야 합니다.]
          [ 조건 2: 모든 반복이 끝난 후, 최종 합계(sum)를 출력하세요.]
+
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/93cc9bc4-055a-4d26-b979-4114439c45c1" />
 
 ▪ practice3 LED
 
