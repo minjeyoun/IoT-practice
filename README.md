@@ -141,6 +141,8 @@ sub
 
 ➢  3
     - WEB에서 제어되는 LED를 만든다.
+
+https://github.com/user-attachments/assets/ffc0220e-ad06-4615-a043-7064492d912b
     
 ▪ practice8 webcam
 
