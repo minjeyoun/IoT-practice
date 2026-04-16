@@ -66,25 +66,40 @@
 ➢  1
     - YL-40모듈의 CDS센서와 가변저항을 이용해 밝을때는 작아지고 어두우면 켜지는 LED 제어, VR 값은 가변저항으로 0~255까지 제어
 
+    https://github.com/user-attachments/assets/908884c0-25e8-4469-8633-3544f77ae7ac
+
 ➢  2
     - VR 값이 자동으로 변화함에 따라 LED의 밝기가 달라진다.
+
+    https://github.com/user-attachments/assets/e9b41836-8f17-403a-aed8-253216208496
 
 ➢  3
     - VR을 수동으로 변화함에 따라 LED의 밝기를 변화시키고, VR 값은 가변저항으로 0~255까지 제어
 
+    https://github.com/user-attachments/assets/f0683430-0e64-4393-a7de-2a4529eac6df
+
 ➢  4
     - YL-40모듈에서 LM35 값 확인하기
+
+    https://github.com/user-attachments/assets/bf7afc3d-9b34-4904-807b-43e2b97469a1
 
 ▪ practice6 LCD
 
 ➢  1
     - 오늘 날짜를 LCD에 나타내고 1초가 지날때마다 LCD에도 지나는 초를 기록한다.
+
+    https://github.com/user-attachments/assets/2f1071c7-83d4-447a-9f91-47bc03c4967f
     
 ➢  2
     - LCD의 문구를 원하는대로 설정한다.
 
+    https://github.com/user-attachments/assets/78619c90-8d5c-4bb9-bc42-656ca7f65325
+
 ➢  3
     - LCD의 문구를 지정하고 현재 시간을 불러온다.
+    
+    https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
+
 
 ▪ practice7 web server
 
