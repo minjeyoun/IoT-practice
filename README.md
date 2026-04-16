@@ -60,7 +60,6 @@
 
     https://github.com/user-attachments/assets/e2e06459-f392-4268-9918-21d81252067d
 
-
 ▪ practice5 YL-40모듈 
 
 ➢  1
@@ -105,6 +104,14 @@
 
 ➢  1 (html_test.py)
     - html test 페이지를 만들고, 아이디와 비밀번호를 설정해본다.
+
+    <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/38ba83c3-dd00-4858-84e9-acfa8e75d5cf" />
+
+    <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/2ca80156-e0d6-4afd-b5a7-eaae4ba28cb9" />
+
+    <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/8f7ef9b4-40a5-40f7-9a0b-de74c40ac46d" />
+
+    <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/2bdd5827-6157-4be2-8d4f-f553e11c83fd" />
     
 ➢  2
     - HTML 태그에서 method=“post”속성으로 호출한다.
