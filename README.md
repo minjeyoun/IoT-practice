@@ -26,17 +26,17 @@
 ➢  2
     - 차량용 신호등과 보행자용 신호등을 만들고 서로 연동하여 동작 시킨다.
 
-    https://github.com/user-attachments/assets/2b1e1577-f88b-4a61-8908-026f4354f169
+    https://github.com/user-attachments/assets/4422158a-c2f3-4114-a0a1-59fcc79fa3b0
 
 ➢  3
     - 경찰차의 빨간색, 파란색 LED 를 깜빡이는 경광등을 만들어 동작 시킨다.
 
-    https://github.com/user-attachments/assets/21bfbf24-9bdc-441c-977c-96146fc509bb
+    https://github.com/user-attachments/assets/20aea8b8-6896-424c-9149-ff41644f84f0
 
 ➢  4
     - 스위치를 이용하여 LED 밝기를 조절한다.
 
-    https://github.com/user-attachments/assets/d1260a35-aad2-4d57-8bf9-6276a6912df1
+
 
 ▪ practice4 MCP3008 회로
 
