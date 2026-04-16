@@ -21,7 +21,7 @@
 ➢  1
     - 붉은색 LED가 깜빡여서 위험을 알리는 용도의 경광등을 만든다.
 
-    https://github.com/user-attachments/assets/2328343e-f375-4546-8dba-06f76ba9a8fd
+    https://github.com/user-attachments/assets/a8ea0ef1-c443-461f-bb74-177045b6a77e
 
 ➢  2
     - 차량용 신호등과 보행자용 신호등을 만들고 서로 연동하여 동작 시킨다.
