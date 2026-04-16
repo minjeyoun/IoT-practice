@@ -147,7 +147,7 @@ sub
 ➢  1
     - 사람 사진을 노출 시간을 조절해서 잘 찍어본다.
 
-    <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/daffa594-fb26-4a6a-a1ae-c1cff40004c7" />
+   " <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/daffa594-fb26-4a6a-a1ae-c1cff40004c7" />"
     
 ➢  2
     - 라즈베리파이의 동작을 동영상으로 촬영한다.
@@ -155,7 +155,7 @@ sub
 ➢  3
     - 화이트 밸런스 조정을 통한 변화된 사진을 확인한다.
 
-    <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/77cab9f8-613c-4ce4-a142-9a905bfd01b5" />
+   " <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/77cab9f8-613c-4ce4-a142-9a905bfd01b5" />"
 
 ▪ practice9 opencv
 
