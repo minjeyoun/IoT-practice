@@ -36,7 +36,7 @@
 ➢  4
     - 스위치를 이용하여 LED 밝기를 조절한다.
 
-
+    https://github.com/user-attachments/assets/56bb106a-3fe6-44c8-a91b-4adb31e1b942
 
 ▪ practice4 MCP3008 회로
 
