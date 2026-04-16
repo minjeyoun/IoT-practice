@@ -152,7 +152,7 @@ sub
 ➢  2
     - 라즈베리파이의 동작을 동영상으로 촬영한다.
 
-    https://github.com/user-attachments/assets/492b8667-f6b9-491f-a871-fe87de52796d
+https://github.com/user-attachments/assets/b0b8cdb8-5b8d-4980-83e1-5556f00be006
 
 ➢  3
     - 화이트 밸런스 조정을 통한 변화된 사진을 확인한다.
