@@ -21,83 +21,83 @@
 ➢  1
     - 붉은색 LED가 깜빡여서 위험을 알리는 용도의 경광등을 만든다.
 
-    https://github.com/user-attachments/assets/a8ea0ef1-c443-461f-bb74-177045b6a77e
+https://github.com/user-attachments/assets/a8ea0ef1-c443-461f-bb74-177045b6a77e
 
 ➢  2
     - 차량용 신호등과 보행자용 신호등을 만들고 서로 연동하여 동작 시킨다.
 
-    https://github.com/user-attachments/assets/4422158a-c2f3-4114-a0a1-59fcc79fa3b0
+https://github.com/user-attachments/assets/4422158a-c2f3-4114-a0a1-59fcc79fa3b0
 
 ➢  3
     - 경찰차의 빨간색, 파란색 LED 를 깜빡이는 경광등을 만들어 동작 시킨다.
 
-    https://github.com/user-attachments/assets/20aea8b8-6896-424c-9149-ff41644f84f0
+https://github.com/user-attachments/assets/20aea8b8-6896-424c-9149-ff41644f84f0
 
 ➢  4
     - 스위치를 이용하여 LED 밝기를 조절한다.
 
-    https://github.com/user-attachments/assets/56bb106a-3fe6-44c8-a91b-4adb31e1b942
+https://github.com/user-attachments/assets/56bb106a-3fe6-44c8-a91b-4adb31e1b942
 
 ▪ practice4 MCP3008 회로
 
 ➢  1
     - CDS(Cadmium Sulfide)센서의 빛을 감지하는 코드를 작성해보고 센서를 가려서 빛의 양이 줄어들면 값이 작아지는지 확인한다.
 
-    https://github.com/user-attachments/assets/bc4d0441-9105-4f94-acd3-6d23cf07309e
+https://github.com/user-attachments/assets/bc4d0441-9105-4f94-acd3-6d23cf07309e
 
 ➢  2
     - CDS센서를 손으로 가려서 어두워지면 LED가 켜지는 코드를 작성한다.
 
-    https://github.com/user-attachments/assets/e3bb9ab1-138b-4fc1-a1c0-8c4015bd466b
+https://github.com/user-attachments/assets/e3bb9ab1-138b-4fc1-a1c0-8c4015bd466b
 
 ➢  3
     - MCP3008 회로와 가변저항 회로를 구성한 후, 저항값을 읽는다.
 
-    https://github.com/user-attachments/assets/dbb4d8e6-13b8-4dd7-ac16-890e9c2a32ef
+https://github.com/user-attachments/assets/dbb4d8e6-13b8-4dd7-ac16-890e9c2a32ef
 
 ➢  4
     - MCP3008 회로에 LM35를 추가하여 센서에 손을 접촉해 온도가 변하는 과정을 확인한다.
 
-    https://github.com/user-attachments/assets/e2e06459-f392-4268-9918-21d81252067d
+https://github.com/user-attachments/assets/e2e06459-f392-4268-9918-21d81252067d
 
 ▪ practice5 YL-40모듈 
 
 ➢  1
     - YL-40모듈의 CDS센서와 가변저항을 이용해 밝을때는 작아지고 어두우면 켜지는 LED 제어, VR 값은 가변저항으로 0~255까지 제어
 
-    https://github.com/user-attachments/assets/908884c0-25e8-4469-8633-3544f77ae7ac
+https://github.com/user-attachments/assets/908884c0-25e8-4469-8633-3544f77ae7ac
 
 ➢  2
     - VR 값이 자동으로 변화함에 따라 LED의 밝기가 달라진다.
 
-    https://github.com/user-attachments/assets/e9b41836-8f17-403a-aed8-253216208496
+https://github.com/user-attachments/assets/e9b41836-8f17-403a-aed8-253216208496
 
 ➢  3
     - VR을 수동으로 변화함에 따라 LED의 밝기를 변화시키고, VR 값은 가변저항으로 0~255까지 제어
 
-    https://github.com/user-attachments/assets/f0683430-0e64-4393-a7de-2a4529eac6df
+https://github.com/user-attachments/assets/f0683430-0e64-4393-a7de-2a4529eac6df
 
 ➢  4
     - YL-40모듈에서 LM35 값 확인하기
 
-    https://github.com/user-attachments/assets/bf7afc3d-9b34-4904-807b-43e2b97469a1
+https://github.com/user-attachments/assets/bf7afc3d-9b34-4904-807b-43e2b97469a1
 
 ▪ practice6 LCD
 
 ➢  1
     - 오늘 날짜를 LCD에 나타내고 1초가 지날때마다 LCD에도 지나는 초를 기록한다.
 
-    https://github.com/user-attachments/assets/2f1071c7-83d4-447a-9f91-47bc03c4967f
+https://github.com/user-attachments/assets/2f1071c7-83d4-447a-9f91-47bc03c4967f
     
 ➢  2
     - LCD의 문구를 원하는대로 설정한다.
 
-    https://github.com/user-attachments/assets/78619c90-8d5c-4bb9-bc42-656ca7f65325
+https://github.com/user-attachments/assets/78619c90-8d5c-4bb9-bc42-656ca7f65325
 
 ➢  3
     - LCD의 문구를 지정하고 현재 시간을 불러온다.
     
-    https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
+https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
 
 
 ▪ practice7 web server
@@ -152,7 +152,7 @@ sub
 ➢  2
     - 라즈베리파이의 동작을 동영상으로 촬영한다.
 
-https://github.com/user-attachments/assets/b0b8cdb8-5b8d-4980-83e1-5556f00be006
+https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 
 ➢  3
     - 화이트 밸런스 조정을 통한 변화된 사진을 확인한다.
