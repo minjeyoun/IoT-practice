@@ -43,6 +43,8 @@
 ➢  1
     - CDS(Cadmium Sulfide)센서의 빛을 감지하는 코드를 작성해보고 센서를 가려서 빛의 양이 줄어들면 값이 작아지는지 확인한다.
 
+    https://github.com/user-attachments/assets/74f53975-ac7b-4d82-8a99-b90dd9ce9322
+
 ➢  2
     - CDS센서를 손으로 가려서 어두워지면 LED가 켜지는 코드를 작성한다.
 
