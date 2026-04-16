@@ -43,16 +43,22 @@
 ➢  1
     - CDS(Cadmium Sulfide)센서의 빛을 감지하는 코드를 작성해보고 센서를 가려서 빛의 양이 줄어들면 값이 작아지는지 확인한다.
 
-    https://github.com/user-attachments/assets/74f53975-ac7b-4d82-8a99-b90dd9ce9322
+    https://github.com/user-attachments/assets/bc4d0441-9105-4f94-acd3-6d23cf07309e
 
 ➢  2
     - CDS센서를 손으로 가려서 어두워지면 LED가 켜지는 코드를 작성한다.
 
+    https://github.com/user-attachments/assets/e3bb9ab1-138b-4fc1-a1c0-8c4015bd466b
+
 ➢  3
     - MCP3008 회로와 가변저항 회로를 구성한 후, 저항값을 읽는다.
 
+    https://github.com/user-attachments/assets/dbb4d8e6-13b8-4dd7-ac16-890e9c2a32ef
+
 ➢  4
     - MCP3008 회로에 LM35를 추가하여 센서에 손을 접촉해 온도가 변하는 과정을 확인한다.
+
+    https://github.com/user-attachments/assets/e2e06459-f392-4268-9918-21d81252067d
 
 
 ▪ practice5 YL-40모듈 
