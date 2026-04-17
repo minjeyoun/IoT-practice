@@ -255,18 +255,48 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 
 ➢  1
     - CPU 온도 확인해서 GUI로 표시한다.
+
+
     
 ➢  2
     - 기상청 정보를 이용한 원하는 지역의 온도와 습도를 표시한다.
 
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/a26e7a02-dc9a-480d-9b23-6ec94e387ed5" />
+
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/86c0454f-0ec4-497e-9ff5-5569a8d3519e" />
+
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/dee41149-e324-4d60-9862-fcce3d7d6f01" />
+
+-
+-
+-
+
 ➢  3-1
     - 공공데이터포탈의 자료를 받아 GUI 확인한다.
+
+<img width="4032" height="3024" alt="Image" src="https://github.com/user-attachments/assets/ce448021-9c4b-4148-a9f6-28eaa86f6379" />
+
+-
+-
+-
 
 ➢  3-2
     - 3-1.py의 실행내용 중 총합계와 시간을 추출하여 GUI로 보여준다.
 
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/2c0d7919-eb31-4107-8ae0-27d838966c1f" />
+
+-
+-
+-
+
 ➢  4
     - 컬러사진을 흑백으로 변경한다.
+
+<img width="4032" height="3024" alt="Image" src="https://github.com/user-attachments/assets/db0eaede-984c-4525-8a86-7bf90c6d1918" />
+
+-
+-
+-
 
 ▪ practice10 AI
 
