@@ -176,9 +176,6 @@ https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
 <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/38ba83c3-dd00-4858-84e9-acfa8e75d5cf" />
 
 -
--
--
-
 
 
 index
@@ -186,16 +183,12 @@ index
 <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2ca80156-e0d6-4afd-b5a7-eaae4ba28cb9" />
 
 -
--
--
 
 
 method_get
 
 <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/8f7ef9b4-40a5-40f7-9a0b-de74c40ac46d" />
 
--
--
 -
 
 
@@ -205,12 +198,18 @@ sub
 <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2bdd5827-6157-4be2-8d4f-f553e11c83fd" />
 
 -
--
--
     
     
 ➢  2
     - HTML 태그에서 method=“post”속성으로 호출한다.
+
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/0284cfa7-69fa-454c-8d72-e5f159128a01" />
+
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/3f525ec6-199d-43a7-92f9-c88c4b5cb930" />
+
+-
+-
+-
 
 ➢  3
     - WEB에서 제어되는 LED를 만든다.
