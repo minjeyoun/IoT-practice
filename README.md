@@ -256,7 +256,11 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  1
     - CPU 온도 확인해서 GUI로 표시한다.
 
+https://github.com/user-attachments/assets/8f983f76-0935-4900-91f8-77e73287b85d
 
+-
+-
+-
     
 ➢  2
     - 기상청 정보를 이용한 원하는 지역의 온도와 습도를 표시한다.
