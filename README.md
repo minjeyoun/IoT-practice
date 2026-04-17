@@ -173,7 +173,7 @@ https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
     - html test 페이지를 만들고, 아이디와 비밀번호를 설정해본다.
 
 
-   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/38ba83c3-dd00-4858-84e9-acfa8e75d5cf" />"
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/38ba83c3-dd00-4858-84e9-acfa8e75d5cf" />
 
 -
 -
@@ -183,7 +183,7 @@ https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
 
 index
 
-  "  <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2ca80156-e0d6-4afd-b5a7-eaae4ba28cb9" />"
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2ca80156-e0d6-4afd-b5a7-eaae4ba28cb9" />
 
 -
 -
@@ -192,7 +192,7 @@ index
 
 method_get
 
-   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/8f7ef9b4-40a5-40f7-9a0b-de74c40ac46d" />"
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/8f7ef9b4-40a5-40f7-9a0b-de74c40ac46d" />
 
 -
 -
@@ -202,8 +202,7 @@ method_get
 sub
 
 
-" <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2bdd5827-6157-4be2-8d4f-f553e11c83fd" />  "
-
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2bdd5827-6157-4be2-8d4f-f553e11c83fd" />
 
 -
 -
@@ -227,7 +226,7 @@ https://github.com/user-attachments/assets/ffc0220e-ad06-4615-a043-7064492d912b
 ➢  1
     - 사람 사진을 노출 시간을 조절해서 잘 찍어본다.
 
-   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/daffa594-fb26-4a6a-a1ae-c1cff40004c7" />"
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/daffa594-fb26-4a6a-a1ae-c1cff40004c7" />
 
 -
 -
@@ -245,7 +244,7 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  3
     - 화이트 밸런스 조정을 통한 변화된 사진을 확인한다.
 
-   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/77cab9f8-613c-4ce4-a142-9a905bfd01b5" />"
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/77cab9f8-613c-4ce4-a142-9a905bfd01b5" />
 
 -
 -
