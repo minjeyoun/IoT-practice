@@ -8,6 +8,8 @@
 
 <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/ba8af516-fb09-44db-8e0d-b16552761d61" />
 
+
+
 ▪ practice2
     - 파이썬의 for 문과 range() 함수를 사용하여 1부터 10까지의 모든 정수를 더한 합계를 구하는 프로그램을 작성하세요.
     
@@ -16,6 +18,8 @@
 
 <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/93cc9bc4-055a-4d26-b979-4114439c45c1" />
 
+
+
 ▪ practice3 LED
 
 ➢  1
@@ -23,20 +27,28 @@
 
 https://github.com/user-attachments/assets/a8ea0ef1-c443-461f-bb74-177045b6a77e
 
+
+
 ➢  2
     - 차량용 신호등과 보행자용 신호등을 만들고 서로 연동하여 동작 시킨다.
 
 https://github.com/user-attachments/assets/4422158a-c2f3-4114-a0a1-59fcc79fa3b0
+
+
 
 ➢  3
     - 경찰차의 빨간색, 파란색 LED 를 깜빡이는 경광등을 만들어 동작 시킨다.
 
 https://github.com/user-attachments/assets/20aea8b8-6896-424c-9149-ff41644f84f0
 
+
+
 ➢  4
     - 스위치를 이용하여 LED 밝기를 조절한다.
 
 https://github.com/user-attachments/assets/56bb106a-3fe6-44c8-a91b-4adb31e1b942
+
+
 
 ▪ practice4 MCP3008 회로
 
