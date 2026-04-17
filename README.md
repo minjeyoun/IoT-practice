@@ -306,9 +306,21 @@ https://github.com/user-attachments/assets/8f983f76-0935-4900-91f8-77e73287b85d
 
 ➢  1
     - AI 안면, 눈 인식을 확인한다.
+
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/d4a61fc8-42f7-45b6-8f73-aeef8b8f403b" />
+
+-
+-
+-
     
 ➢  2
     - 모션인식(침입 탐지 기능)를 확인한다.
+
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/dcf3bea4-23f0-40c6-85c8-de417baad9a0" />
+
+-
+-
+-
 
 ➢  3
     - AI detect : 사진 안의 내용을 검출한다.(person, dog 등)
@@ -316,8 +328,29 @@ https://github.com/user-attachments/assets/8f983f76-0935-4900-91f8-77e73287b85d
     [❑ 인터넷에서 다양한 사진을 다운받아 코드를 수정해서 확인 가능함.]
     [❑ Image size를 변경하면 인식이 달라지기도 함.]
 
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/36eda1d4-c331-4eb9-80b5-a9bd8ded866e" />
+
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/a9a62dc5-cac9-489e-ac74-ddb468857884" />
+
+-
+-
+-
+
 ➢  4
     - AI detect : 카메라 안의 내용을 검출한.(person, keyboard, mouse 등)
 
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/ae5ec7e7-2cf3-40af-b66f-19f5f5495066" />
+
+-
+-
+-
+
+
 ➢  5
     - AI가 카메라안의 사람의 나이와 성별 인식한다.
+
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/be0abcb9-852b-4f47-bafb-62229a2aad7a" />
+
+-
+-
+-
