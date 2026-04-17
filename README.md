@@ -173,7 +173,7 @@ https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
     - html test 페이지를 만들고, 아이디와 비밀번호를 설정해본다.
 
 
-   " <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/38ba83c3-dd00-4858-84e9-acfa8e75d5cf" />"
+   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/38ba83c3-dd00-4858-84e9-acfa8e75d5cf" />"
 
 -
 -
@@ -183,7 +183,7 @@ https://github.com/user-attachments/assets/fe731bc8-8b94-40fe-8c28-a16dc9b3721b
 
 index
 
-  "  <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/2ca80156-e0d6-4afd-b5a7-eaae4ba28cb9" />"
+  "  <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2ca80156-e0d6-4afd-b5a7-eaae4ba28cb9" />"
 
 -
 -
@@ -192,7 +192,7 @@ index
 
 method_get
 
-   " <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/8f7ef9b4-40a5-40f7-9a0b-de74c40ac46d" />"
+   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/8f7ef9b4-40a5-40f7-9a0b-de74c40ac46d" />"
 
 -
 -
@@ -202,7 +202,7 @@ method_get
 sub
 
 
-" <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/2bdd5827-6157-4be2-8d4f-f553e11c83fd" />  "
+" <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2bdd5827-6157-4be2-8d4f-f553e11c83fd" />  "
 
 
 -
@@ -227,7 +227,7 @@ https://github.com/user-attachments/assets/ffc0220e-ad06-4615-a043-7064492d912b
 ➢  1
     - 사람 사진을 노출 시간을 조절해서 잘 찍어본다.
 
-   " <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/daffa594-fb26-4a6a-a1ae-c1cff40004c7" />"
+   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/daffa594-fb26-4a6a-a1ae-c1cff40004c7" />"
 
 -
 -
@@ -245,7 +245,7 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  3
     - 화이트 밸런스 조정을 통한 변화된 사진을 확인한다.
 
-   " <img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/77cab9f8-613c-4ce4-a142-9a905bfd01b5" />"
+   " <img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/77cab9f8-613c-4ce4-a142-9a905bfd01b5" />"
 
 -
 -
@@ -261,11 +261,11 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  2
     - 기상청 정보를 이용한 원하는 지역의 온도와 습도를 표시한다.
 
-<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/a26e7a02-dc9a-480d-9b23-6ec94e387ed5" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/a26e7a02-dc9a-480d-9b23-6ec94e387ed5" />
 
-<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/86c0454f-0ec4-497e-9ff5-5569a8d3519e" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/86c0454f-0ec4-497e-9ff5-5569a8d3519e" />
 
-<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/dee41149-e324-4d60-9862-fcce3d7d6f01" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/dee41149-e324-4d60-9862-fcce3d7d6f01" />
 
 -
 -
@@ -274,7 +274,7 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  3-1
     - 공공데이터포탈의 자료를 받아 GUI 확인한다.
 
-<img width="4032" height="3024" alt="Image" src="https://github.com/user-attachments/assets/ce448021-9c4b-4148-a9f6-28eaa86f6379" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/ce448021-9c4b-4148-a9f6-28eaa86f6379" />
 
 -
 -
@@ -283,7 +283,7 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  3-2
     - 3-1.py의 실행내용 중 총합계와 시간을 추출하여 GUI로 보여준다.
 
-<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/2c0d7919-eb31-4107-8ae0-27d838966c1f" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/2c0d7919-eb31-4107-8ae0-27d838966c1f" />
 
 -
 -
@@ -292,7 +292,7 @@ https://github.com/user-attachments/assets/4aa8658d-72f2-4d4b-8d21-6d95e6cd1ad1
 ➢  4
     - 컬러사진을 흑백으로 변경한다.
 
-<img width="4032" height="3024" alt="Image" src="https://github.com/user-attachments/assets/db0eaede-984c-4525-8a86-7bf90c6d1918" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/db0eaede-984c-4525-8a86-7bf90c6d1918" />
 
 -
 -
