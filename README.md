@@ -6,7 +6,7 @@
     
           [ 조건 : 90점 이상 : A, 80점 이상 : B, 70점 이상 : C, 60점 이상 : D, 60점 미만 : F]
 
-<img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/ba8af516-fb09-44db-8e0d-b16552761d61" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/ba8af516-fb09-44db-8e0d-b16552761d61" />
 
 -
 -
@@ -18,7 +18,7 @@
          [ 조건 1: 반복문이 실행될 때마다 현재 더해지는 숫자가 무엇인지 출력해야 합니다.]
          [ 조건 2: 모든 반복이 끝난 후, 최종 합계(sum)를 출력하세요.]
 
-<img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/93cc9bc4-055a-4d26-b979-4114439c45c1" />
+<img width="40%" height="40%" alt="Image" src="https://github.com/user-attachments/assets/93cc9bc4-055a-4d26-b979-4114439c45c1" />
 
 -
 -
